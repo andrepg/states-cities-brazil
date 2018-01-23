@@ -24,6 +24,7 @@
   "dependencies": {
     "@std/esm": "^0.19.7",
     "download-file": "^0.1.5",
+    "node-xlsx": "^0.11.2",
     "unzip": "^0.1.11"
   }
 }
