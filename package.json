@@ -1,0 +1,29 @@
+{
+  "name": "states-cities-brazil",
+  "version": "0.1.0",
+  "description": "Base de estados/cidades criada com informações do Instituto Brasileiro de Geografia e Estatística",
+  "main": "./src/entry.js",
+  "scripts": {
+    "start": "node ./src/entry.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnobiet/states-cities-brazil.git"
+  },
+  "keywords": [
+    "states",
+    "cities",
+    "brazil"
+  ],
+  "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnobiet/states-cities-brazil/issues"
+  },
+  "homepage": "https://github.com/magnobiet/states-cities-brazil#readme",
+  "dependencies": {
+    "@std/esm": "^0.19.7",
+    "download-file": "^0.1.5",
+    "unzip": "^0.1.11"
+  }
+}
